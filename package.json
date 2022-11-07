@@ -1,0 +1,14 @@
+{
+  "name": "react-scaffold",
+  "version": "1.0.0",
+  "description": "React scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
